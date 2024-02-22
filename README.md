@@ -1,0 +1,1 @@
+Hello everyone, this program was created in Python, and I'm presenting how the carry addition works. The carry, also known as "carry" in English, refers to the process of carrying a value to the next higher-order position when performing an addition operation in programming. This is commonly used in binary addition but can also be applied to other numbering systems.
